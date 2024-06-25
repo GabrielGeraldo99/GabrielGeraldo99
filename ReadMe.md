@@ -1,5 +1,5 @@
 # 💫 Olá
-Estudante de front end<br>Estou a procura de um estágio<br>Faço ADS (EAD),  4º semestre
+<br>Desenvolvedor front end<br>ADS,  5º semestre
 
 
 ## 🌐 Socials:
