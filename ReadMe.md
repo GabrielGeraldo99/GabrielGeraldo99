@@ -1,5 +1,5 @@
 # 💫 Olá
-<br>Desenvolvedor front end<br>ADS,  5º semestre
+<br>Em busca de uma oportunidade como Desenvolvedor front end júnior<br>
 
 
 ## 🌐 Socials:
