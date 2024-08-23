@@ -1,5 +1,5 @@
 # 💫 Olá
-<br>Em busca de uma oportunidade como Desenvolvedor front end júnior<br>
+<br>Em busca de uma oportunidade como Desenvolvedor júnior<br>
 
 
 ## 🌐 Socials:
