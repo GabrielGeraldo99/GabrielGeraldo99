@@ -1,18 +1,66 @@
-# 💫 Olá
-<br>Em busca de uma oportunidade como Desenvolvedor júnior<br>
+# 👋 Olá, eu sou Gabriel Geraldo
 
+🎓 Formado em Análise e Desenvolvimento de Sistemas
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gabriel-geraldo) 
+💻 Assistente de Infraestrutura TI
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=GabrielGeraldo99&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=GabrielGeraldo99&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGeraldo99&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🚀 Em transição para DevOps e Site Reliability Engineering (SRE)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=GabrielGeraldo99&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 Sobre mim
+
+Atualmente atuo com Infraestrutura e Suporte em ambientes Linux, monitoramento de servidores, virtualização e troubleshooting.
+
+Tenho experiência anterior com:
+
+- Suporte Técnico N1/N2
+- Monitoramento de ambientes críticos
+- Linux
+- Windows Server
+- Redes TCP/IP
+- ServiceNow
+- Zabbix
+- Virtualização
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+### Sistemas Operacionais
+- Linux
+- Windows Server
+
+### Infraestrutura
+- Proxmox
+
+### Monitoramento
+- Zabbix
+
+### Automação e IaC
+- Shell Script
+- PowerShell
+
+### Versionamento
+- Git
+- GitHub
+
+## 📚 Atualmente estudando
+
+- Site Reliability Engineering (SRE)
+- Observabilidade
+- Kubernetes Avançado
+- Terraform
+- Ansible
+- CI/CD
+- Cloud Computing
+
+---
+
+## 📫 Contato
+
+LinkedIn:
+www.linkedin.com/in/gabriel-geraldo
+
+Email:
+gabrielgeraldo165@gmail.com
