@@ -1,27 +1,22 @@
 # 👋 Olá, eu sou Gabriel Geraldo
 
-🎓 Formado em Análise e Desenvolvimento de Sistemas
+🎓 Formado em Análise e Desenvolvimento de Sistemas.
 
-💻 Assistente de Infraestrutura TI
+💼 Atualmente sou **Assistente de Infraestrutura**, atuando com administração de ambientes Linux, monitoramento, virtualização e suporte a ambientes críticos.
 
-🚀 Em transição para DevOps e Site Reliability Engineering (SRE)
+🚀 Estou construindo minha carreira para atuar como **DevOps Engineer** e **Site Reliability Engineer (SRE)**, aprofundando meus conhecimentos em automação, containers, observabilidade, infraestrutura como código e computação em nuvem.
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 O que faço hoje
 
-Atualmente atuo com Infraestrutura e Suporte em ambientes Linux, monitoramento de servidores, virtualização e troubleshooting.
-
-Tenho experiência anterior com:
-
-- Suporte Técnico N1/N2
-- Monitoramento de ambientes críticos
-- Linux
-- Windows Server
+- Administração de ambientes Linux
+- Monitoramento de infraestrutura com Zabbix
+- Virtualização utilizando Proxmox VE
+- Suporte a servidores Windows e Linux
+- Análise e resolução de incidentes
+- Monitoramento de serviços e infraestrutura crítica
 - Redes TCP/IP
-- ServiceNow
-- Zabbix
-- Virtualização
 
 ---
 
@@ -32,24 +27,33 @@ Tenho experiência anterior com:
 - Windows Server
 
 ### Infraestrutura
-- Proxmox
+- Proxmox VE
 
 ### Monitoramento
 - Zabbix
+- Grafana
+- Loki
 
-### Automação e IaC
-- Shell Script
+### Automação
+- Bash
 - PowerShell
+- Python *(em aprendizado)*
+
+### Containers
+- Docker *(em aprendizado)*
 
 ### Versionamento
 - Git
 - GitHub
 
+---
+
 ## 📚 Atualmente estudando
 
 - Site Reliability Engineering (SRE)
-- Observabilidade
-- Kubernetes Avançado
+- Docker
+- Python para Automação
+- Kubernetes
 - Terraform
 - Ansible
 - CI/CD
@@ -57,10 +61,14 @@ Tenho experiência anterior com:
 
 ---
 
+## 🎯 Objetivo
+
+Construir soluções que automatizem processos, aumentem a confiabilidade da infraestrutura e reduzam tarefas operacionais através de boas práticas de DevOps e SRE.
+
+---
+
 ## 📫 Contato
 
-LinkedIn:
-www.linkedin.com/in/gabriel-geraldo
+💼 LinkedIn: https://www.linkedin.com/in/gabriel-geraldo
 
-Email:
-gabrielgeraldo165@gmail.com
+📧 E-mail: gabrielgeraldo165@gmail.com
